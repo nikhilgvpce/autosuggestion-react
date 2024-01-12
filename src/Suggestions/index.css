@@ -1,0 +1,19 @@
+.hide-suggestion-box .suggestion-box {
+    border: 0.5px solid blue;
+    margin: 10px auto 0;
+}
+
+.hide-suggestion-box {
+    display: none;
+}
+
+.suggestion-box {
+    min-width: 50vw;
+    min-height: 10vh;
+    margin-top: 10px;
+    border: 0.5px dashed blueviolet;
+}
+
+.suggestion {
+    display: flex;
+}
